@@ -9,7 +9,7 @@
 https://colab.research.google.com/github/neriiacopo/IAAC-II-CLIPStudies-Masterclass/blob/main/IAACII_CLIP_Studies_ZeroShot_Classification.ipynb)
 
 # (What)
-[![Open In Colab](https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg)](
+[![Open In Colab](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](
 https://huggingface.co/spaces/kellyxiaowei/OWL-ViT)
 
 # (Where)
