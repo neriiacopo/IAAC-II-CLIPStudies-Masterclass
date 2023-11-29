@@ -1,5 +1,5 @@
 # IAAC-II-CLIPStudies-Masterclass
-![cover](https://github.com/neriiacopo/IAAC-II-CLIPStudies-Masterclass/assets/50297074/b8896211-4683-4af9-b5ed-0777de70900c)
+![cover](https://github.com/neriiacopo/IAAC-II-CLIPStudies-Masterclass/assets/50297074/c0b02c0f-676b-410d-b6e5-3c7866632c27)
 
 # Overview - Retrieval
 [CLIP RETRIEVAL](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn.laion.ai&index=laion5B-H-14&useMclip=false)
